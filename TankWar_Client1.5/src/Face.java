@@ -21,6 +21,7 @@ JPanel panel=new JPanel();
 panel.setOpaque(false);
 setLocation(300, 100);
 
+
 button=new JButton("¿ªÊ¼ÓÎÏ·");
 button.setFont(new java.awt.Font("Î¢ÈíÑÅºÚ", 1, 15)); 
 button.addActionListener(this);
